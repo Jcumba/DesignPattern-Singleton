@@ -1,2 +1,2 @@
-# PatronDise-o-Singleton
-Patrón de diseño Singleton  - Java
+# PatronDiseño-Singleton
+Patrón de diseño Singleton en Java.
